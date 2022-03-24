@@ -10,3 +10,5 @@ def CI(principle,rate,time):
 
 CI(10000,10.25,5)
 
+#check pull
+
